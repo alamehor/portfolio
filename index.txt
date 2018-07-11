@@ -3,6 +3,7 @@ http://dfm-europe.eu
 http://dfm-doors.com
 plus księga znaku plus loga dla trzech podmiotów
 
+
 http://architektura.w4o3.com
 http://kilandesign.com/projekty/wnetrza-prywatne/
 
@@ -12,9 +13,16 @@ http://hotelsulkowski.pl strona + sysytem rezerwacyjny
 http://hotelvitalia strona + system rezerwacyjny
 http://www.techservice.info.pl/ - jazz
 
+optymalizacja 
+pgs-soft
+flyonthecloud
+
 
 Obieg dokumentów workflow z terminowymi alertami - do wykorzystania również jako terminarz lub
 quest'er
 
 System bookingowy do automatycznego bookowania pokoi opłaconych via bramka płatności wraz z panelem zarządzania
 ilościa pokoi/rabatami/promocjami
+
+ETL - dokumenty róznych formatów ekstrahowane do DB w celu mozliwości wyszukiwania po treści dokumentów;
+doc,docx,xls,xlsx,pdf,zdjęcia(exif),...
